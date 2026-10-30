@@ -1,0 +1,23 @@
+# Startup Design Award
+
+This llms.txt file is designed to help LLMs better understand and index this website. Startup Design Award provides information about the award, applications, jury, participating start-ups, gallery, participation requirements, and contact information.
+
+## Pages
+
+https://startupdesignaward.com/: Homepage providing an overview of the Startup Design Award and its purpose.
+
+https://startupdesignaward.com/bewerbung/: Application page for start-ups interested in participating in the Startup Design Award.
+
+https://startupdesignaward.com/jury/: Information about the Startup Design Award jury.
+
+https://startupdesignaward.com/start-ups/: Information about participating start-ups.
+
+https://startupdesignaward.com/galerie/: Gallery featuring Startup Design Award entries and related visual content.
+
+https://startupdesignaward.com/kontakt/: Contact page for reaching the Startup Design Award team.
+
+https://startupdesignaward.com/teilnahmebedingungen/: Terms and conditions for participating in the Startup Design Award.
+
+https://startupdesignaward.com/datenschutz/: Privacy policy and data protection information.
+
+https://startupdesignaward.com/impressum/: Legal notice and publisher information.
